@@ -21,3 +21,14 @@ An interactive web application built with Streamlit to analyze retail sales data
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+## 📸 Screenshots
+
+### Main Dashboard
+![Dashboard Main](https://github.com/ellefiahlem6-sys/my_store_app/blob/main/dashboard_maiin.png?raw=true)
+
+### Prediction Result
+![Prediction Result](https://github.com/ellefiahlem6-sys/my_store_app/blob/main/dashboard_man.png?raw=true
+https://github.com/ellefiahlem6-sys/my_store_app/blob/main/dashboard_main.png?raw=true
+https://github.com/ellefiahlem6-sys/my_store_app/blob/main/dashboard__main.png?raw=true
+https://github.com/ellefiahlem6-sys/my_store_app/blob/main/dashboard.png?raw=true
+https://github.com/ellefiahlem6-sys/my_store_app/blob/main/dashboard-main.png?raw=true)
