@@ -15,7 +15,7 @@ An interactive web application built with Streamlit to analyze retail sales data
 - Streamlit
 
 ## 🔗 Live Demo
-[Click here to try the app](https://github.com/ellefiahlem6-sys/my_store_app.git)
+[Click here to try the app](https://mystoreapp-cjdkwqvdpyen8u4zk38ysr.streamlit.app/)
 
 ## 🚀 How to Run Locally
 ```bash
